@@ -8,6 +8,7 @@
 REPORT zste_test.
 
 "Übersetzungen in: SE63, Kurztexte: G5, Klassen. Langtexte: H5, Klassen. DOKU-Klasse: DOKIL
+"Test for Pull
 
 INITIALIZATION.
 
