@@ -34,7 +34,7 @@ CLASS lcl_query_hu IMPLEMENTATION.
 
   METHOD setvar.
 
-    av_value_parent = 100.
+    av_value_parent = 150.
 
   ENDMETHOD.
 
