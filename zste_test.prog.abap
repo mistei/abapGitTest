@@ -120,7 +120,7 @@ START-OF-SELECTION.
   WRITE: / 'lo_parent', lo_parent->av_value_parent.
   WRITE: / 'lo_child', lo_child->av_value_parent.
 
-  lo_child_cast ?= lo_child.
+  lo_child_cast ?= lo_child..
   WRITE: / 'lo_child_cast', lo_child_cast->av_value_parent, lo_child_cast->av_value_child.
 
 
