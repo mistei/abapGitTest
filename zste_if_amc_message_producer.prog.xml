@@ -11,13 +11,6 @@
     <FIXPT>X</FIXPT>
     <UCCHECK>X</UCCHECK>
    </PROGDIR>
-   <TPOOL>
-    <item>
-     <ID>R</ID>
-     <ENTRY>Programm ZSTE_IF_AMC_MESSAGE_PRODUCER</ENTRY>
-     <LENGTH>37</LENGTH>
-    </item>
-   </TPOOL>
   </asx:values>
  </asx:abap>
 </abapGit>

@@ -124,6 +124,14 @@ START-OF-SELECTION.
   WRITE: / 'lo_child_cast', lo_child_cast->av_value_parent, lo_child_cast->av_value_child.
 
 
+  DATA(lt_value) = /knapp/cl_pfw_md=>get_selection(
+    EXPORTING
+      iv_lgnum        = 'L100'
+      iv_context      = 'TEST_ID1'
+      iv_parameter_id = 'TEST_ID2'
+  ).
+
+
 
 *DATA: gv_lgnum  TYPE /scwm/lgnum VALUE 'L100'
 *    , gv_a      TYPE int1 VALUE 100
