@@ -131,6 +131,7 @@ START-OF-SELECTION.
       iv_parameter_id = 'TEST_ID2'
   ).
 
+"This is a test
 
 
 *DATA: gv_lgnum  TYPE /scwm/lgnum VALUE 'L100'
