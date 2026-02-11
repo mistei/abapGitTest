@@ -31,6 +31,8 @@ CLASS ZSTE_CL_TEST IMPLEMENTATION.
 
   METHOD meth1.
 
+    "Raise exception
+
     RAISE EXCEPTION TYPE /knapp/cx_std.
 
   ENDMETHOD.
